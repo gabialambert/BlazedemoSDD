@@ -1,0 +1,13 @@
+{
+  "name": "blazedemo-flight-purchase-e2e",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Playwright end-to-end coverage for BlazeDemo flight purchases",
+  "scripts": {
+    "test": "playwright test",
+    "test:report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.48.0"
+  }
+}
